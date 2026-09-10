@@ -1,6 +1,6 @@
 # UModel Importer Plugin
 
-![Preview](preview.png)
+![Preview]([preview.png](https://github.com/ST-Jie-Ge/uemodel-import-plugins/blob/main/viv.jpg?raw=true))
 
 ## 中文
 
@@ -8,7 +8,7 @@
 
 目前仅兼容 **UE 4.27**。
 
-修改自：[URL](https://github.com/ST-Jie-Ge/uemodel-import-plugins/blob/main/viv.jpg?raw=true)
+修改自：[URL](https://github.com/andr1ww/UE4Format)
 
 ### 修复
 
@@ -28,7 +28,7 @@ This is a plugin that allows UModel files to be imported into Unreal Engine.
 
 Currently only compatible with **UE 4.27**.
 
-Modified from: [URL](URL)
+Modified from: [URL](https://github.com/andr1ww/UE4Format)
 
 ### Fixes
 
