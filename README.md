@@ -1,6 +1,8 @@
 # UModel Importer Plugin
 
-![Preview]([preview.png](https://github.com/ST-Jie-Ge/uemodel-import-plugins/blob/main/viv.jpg?raw=true))
+<h1 align="center">
+  <img src="https://raw.githubusercontent.com/ST-Jie-Ge/uemodel-import-plugins/refs/heads/main/viv.jpg" />
+</h1>
 
 ## 中文
 
