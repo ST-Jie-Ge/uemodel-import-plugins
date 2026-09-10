@@ -1,0 +1,25 @@
+{
+	"FileVersion": 3,
+	"Version": 1,
+	"VersionName": "v5",
+	"EngineVersion": "4.27.2",
+	"FriendlyName": "UEmodel",
+	"Description": "only.ue427",
+	"Category": "Importers",
+	"CreatedBy": "STjun",
+	"CreatedByURL": "https://github.com/",
+	"DocsURL": "",
+	"MarketplaceURL": "",
+	"SupportURL": "",
+	"CanContainContent": true,
+	"IsBetaVersion": false,
+	"IsExperimentalVersion": false,
+	"Installed": false,
+	"Modules": [
+		{
+			"Name": "UEFormat",
+			"Type": "Editor",
+			"LoadingPhase": "Default"
+		}
+	]
+}
