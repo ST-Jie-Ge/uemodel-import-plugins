@@ -1,4 +1,4 @@
-# UModel Importer Plugin
+# UEmodel Import Plugin
 
 <h1 align="center">
   <img src="https://raw.githubusercontent.com/ST-Jie-Ge/uemodel-import-plugins/refs/heads/main/viv.jpg" />
@@ -6,7 +6,7 @@
 
 ## 中文
 
-这是一个让 UModel 可以被导入虚幻引擎的插件。
+这是一个让 uemodel文件 可以被导入虚幻引擎4的插件。
 
 目前仅兼容 **UE 4.27**。
 
@@ -26,7 +26,7 @@
 
 ## English
 
-This is a plugin that allows UModel files to be imported into Unreal Engine.
+This is a plugin that allows UModel(FModel) files to be imported into Unreal Engine.
 
 Currently only compatible with **UE 4.27**.
 
