@@ -47,7 +47,7 @@ Modified from: [URL](https://github.com/andr1ww/UE4Format)
 If you encounter any issues, please include the **Log** to help diagnose the problem.
 
 
-Credits:
+Credits:  <br>
 https://github.com/andr1ww/UE4Format  <br>
 https://github.com/h4lfheart  <br>
 https://marcelk.dev/  <br>
