@@ -7,10 +7,14 @@
 ## 中文
 
 这是一个让 uemodel文件 可以被导入虚幻引擎4的插件。
+(请从Releases获取)
 
 目前仅兼容 **UE 4.27**。
 
 修改自：[URL](https://github.com/andr1ww/UE4Format)
+### 新增功能
+
+- 自动导入贴图并应用在正确位置
 
 ### 修复
 
@@ -44,6 +48,6 @@ If you encounter any issues, please include the **Log** to help diagnose the pro
 
 
 Credits:
-https://github.com/andr1ww/UE4Format
-https://github.com/h4lfheart
-https://marcelk.dev/
+https://github.com/andr1ww/UE4Format  <br>
+https://github.com/h4lfheart  <br>
+https://marcelk.dev/  <br>
